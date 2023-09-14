@@ -1,0 +1,5 @@
+.idea/
+.docker/
+venv/
+**/*.db
+__pycache__/
